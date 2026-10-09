@@ -2,6 +2,10 @@
 
 Use cases: brochures with an independent text layer, pages with text overlaid on background photos, and two-column papers with mixed text and graphics.
 
+example: left side -> generated tex; right side -> original pdf
+<img width="2782" height="1566" alt="169ba1a140f4580813f097ecd875a872" src="https://github.com/user-attachments/assets/8df80622-890c-4a0f-96ac-0ece696190a2" />
+
+
 ## Installation and Usage
 
 Requires Python 3.10+:
